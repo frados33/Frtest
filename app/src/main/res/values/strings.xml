@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fit Runner</string>
+    <string name="hello_fran_rados">Hello!</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="name">Name</string>
+    <string name="hrvatski">Croatian</string>
+    <string name="engleski">English</string>
+    <string name="resetiraj">Resetart</string>
+    <string name="success">%s you successfully made 10 steps. </string>
+    <string name="button_send">Send</string>
+</resources>

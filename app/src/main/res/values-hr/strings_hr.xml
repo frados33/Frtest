@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fit Runner</string>
+    <string name="hello_fran_rados">Bok!</string>
+    <string name="up">Gore</string>
+    <string name="down">Dolje</string>
+    <string name="name">Ime</string>
+    <string name="hrvatski">Hrvatski</string>
+    <string name="engleski">Engleski</string>
+    <string name="resetiraj">Resetart</string>
+    <string name="success">"%s uspješno ste napravili 10 koraka. "</string>
+    <string name="button_send">Pošalji</string>
+</resources>
